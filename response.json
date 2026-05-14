@@ -1,0 +1,12 @@
+[
+  {
+    "verification_id": "V-0001",
+    "risk_category": "Low Risk",
+    "license_active": true
+  },
+  {
+    "verification_id": "V-0002",
+    "risk_category": "High Risk",
+    "license_active": false
+  }
+]
